@@ -1,0 +1,148 @@
+{
+    "products": [
+    	{
+        "fire_cracker": {
+            "id": 0,
+            "type": 0,
+            "name": "Fire Cracker",
+            "description": "A firecracker is a small explosive device primarily designed to produce a large amount of noise."
+        	}
+    	},
+        {
+        "m80_firecracker": {
+            "id": 1,
+            "type": 0,
+            "name": "M80 Firecracker",
+            "description": "M-80s are an American class of large powerful firecrackers, sometimes called salutes."
+        	}
+    	},
+        {
+        "bottle_rocket": {
+            "id": 2,
+            "type": 0,
+            "name": "Bottle Rocket",
+            "description": "A bottle rocket is a small skyrocket. A typical bottle rocket consists of a rocket engine attached to a stabilizing stick."
+        	}
+    	},
+        {
+        "roman_candle": {
+            "id": 3,
+            "type": 1,
+            "name": "Roman Candle",
+            "description": "A Roman candle is a traditional type of firework that ejects one or more stars or exploding shells."
+        	}
+    	},
+        {
+        "fairy_sparklers": {
+            "id": 4,
+            "type": 1,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        	}
+    	},
+        {
+        "cake_sparklers": {
+            "id": 5,
+            "type": 1,
+            "name": "Cake Sparklers",
+            "description": "The perfect addition to make your loved one's birthday more special than it already is."
+        	}
+    	},
+        {
+        "aerial_fireworks": {
+            "id": 6,
+            "type": 2,
+            "name": "Aerial Fireworks",
+            "description": "These items are chain-fused fireworks that propel a series of aerial shells, comets or mines into the air from collectively attached tubes to produce various colors, noises, and effects."
+        	}
+    	},
+        {
+        "beehive": {
+            "id": 7,
+            "type": 2,
+            "name": "Beehive",
+            "description": "A visual effect of color stars that actively are swarming around which illuminates into a visual Beehive appearance."
+        	}
+    	},
+        {
+        "comet": {
+            "id": 8,
+            "type": 2,
+            "name": "Comet",
+            "description": "A star or fiery ball which emits a thick trail of sparks on the way up, following the star or ball and eventually burns out or fades away. These are sometimes added to a shell basically chasing the shell up until it breaks."
+        	}
+    	},
+        {
+        "dynamite": {
+            "id": 9,
+            "type": 3,
+            "name": "Dynamite",
+            "description": "An explosive made by soaking an inert (inactive or stable), absorbent substance with a mixture of (1) nitroglycerin or ammonium nitrate, (2) a combustible substance (a substance with the ability to burn), such as wood pulp, and (3) an antacid."
+        	}
+    	},
+        {
+        "gunpowder": {
+            "id": 10,
+            "type": 3,
+            "name": "Gunpowder",
+            "description": "An explosive mixture of charcoal, potassium nitrate, and sulfur often used to propel bullets from guns and shells from cannons."
+        	}
+    	},
+        {
+        "nuclear_explosive": {
+            "id": 11,
+            "type": 3,
+            "name": "Nuclear Explosives",
+            "description": "A device that obtains its explosive force from the release of nuclear energy."
+        	}
+    	},
+        {
+        "hand_grenade": {
+            "id": 12,
+            "type": 4,
+            "name": "Hand Grenade",
+            "description": "A grenade is a small bomb typically thrown by hand."
+        	}
+    	},
+        {
+        "c_4": {
+            "id": 13,
+            "type": 4,
+            "name": "C-4",
+            "description": " C-4 is composed of explosives, plastic binder, plasticizer to make it malleable, and usually a marker or odorizing taggant chemical."
+        	}
+    	},
+        {
+        "smoke_bomb": {
+            "id": 14,
+            "type": 4,
+            "name": "Smoke Bomb",
+            "description": "A smoke bomb is a firework designed to produce smoke upon ignition."
+        	}
+    	},
+        {
+        "nitroglycerin": {
+            "id": 15,
+            "type": 5,
+            "name": "Nitroglycerin",
+            "description": "The first explosive discovered to be stronger than black poweder."
+        	}
+    	},
+        {
+        "black_powder": {
+            "id": 16,
+            "type": 5,
+            "name": "Black Powder",
+            "description": "Multi-colored sparklers that are safe for any age."
+        	}
+    	},
+        {
+        "fairy_sparklers": {
+            "id": 17,
+            "type": 5,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        	}
+    	}
+	]
+}

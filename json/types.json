@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Small scale fireworks..totally safe..no way you could hurt yourself"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "party",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "carnival",
+            "description": "Large scale fireworks for professional grade pyrotechnic displays"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "heavy artillery",
+            "description": "Heavy artillery for military use only"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "regular military",
+            "description": "Explosives designed for regular military use."
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "mining explosives",
+            "description": "Explosives designed for blasting and drilling."
+        }
+    ]
+}
