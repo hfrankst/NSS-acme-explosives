@@ -10,14 +10,19 @@
 </head>
 <body>
 	<h1>Acme Explosives</h1>
-	<nav class="navbar nav-default">
-		<select id="dropdown-menu">
-			<option>Select One</option>
-			<option>Fireworks</option>
-			<option>Demolition</option>
-		</select>
+	<nav class="navbar nav-default container-fluid">
+		<p><em>Make your choice of explosive, and click on the card to see further information</em></p>
+		<div class="dropdown">
+  		  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Explosive Choices
+  		  <span class="caret"></span></button>
+		  <ul class="dropdown-menu">
+		    <li id="fireBtn"><a href="#">Fireworks</a></li>
+		    <li id="demoBtn"><a href="#">Demolition</a></li>
+		  </ul>
+		</div>
+		<div class="clearfix"></div>
 	</nav>
-	<hr>
+	
 
 	<div class="container" >
 		<div class="row" id="gallery"></div>
